@@ -5,9 +5,9 @@
   /*===== Colores =====*/
   /*Purple 260 - Red 355 - Blue 224 - Pink 340*/
   /* HSL color mode */
-  --hue-color: 224;
-  --first-color: hsl(var(--hue-color), 89%, 60%);
-  --second-color: hsl(var(--hue-color), 56%, 12%);
+  --hue-color: 270; /* Ungu */
+  --first-color: hsl(var(--hue-color), 89%, 60%); /* Ungu cerah */
+  --second-color: hsl(0, 0%, 0%); /* Hitam */
   /*===== Fuente y tipografia =====*/
   --body-font: "Poppins", sans-serif;
   --big-font-size: 2rem;
