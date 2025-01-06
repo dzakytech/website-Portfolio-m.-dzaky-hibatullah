@@ -212,7 +212,7 @@ img {
   width: 260px;
 }
 .home__blob {
-  fill: var(--first-color);
+  fill: hsl(0, 0%, 0%); /* Menetapkan warna hitam langsung */
 }
 .home__blob-img {
   width: 360px;
