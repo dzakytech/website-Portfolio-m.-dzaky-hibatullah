@@ -188,7 +188,8 @@ img{
         font-size: var(--big-font-size);
         margin-bottom: var(--mb-5);
 
-        &-color{
+        &-color {
+            --first-color: hsl(0, 0%, 0%); /* Menetapkan warna hitam */
             color: var(--first-color);
         }
     }
